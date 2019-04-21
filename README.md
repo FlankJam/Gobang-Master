@@ -1,6 +1,9 @@
 # MissionManager
 
 
+If you have any questions, please contact the following email address, ‘shudianmission@gmail.com’ Thank you
+
+
 Privacy Policy
 
 ShuDian built the 经典MissionManagerSD app as a Free app. This SERVICE is provided by ShuDian at no cost and is intended for use as is.
