@@ -1,64 +1,63 @@
-# MissionManager
+# Gobang-Master
 
+Technical support for "Gobang-Master"
 
-If you have any questions, please contact the following email address, ‘shudianmission@gmail.com’ Thank you
-
+We will provide technical support for this app（Gobang-Mater）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: frankgobang@gmail.com
 
 Privacy Policy
 
-ShuDian built the 经典MissionManagerSD app as a Free app. This SERVICE is provided by ShuDian at no cost and is intended for use as is.
+This app respects and protects the privacy of all users who use the service. In order to provide you with more accurate and personalized services, this app will use and disclose your personal information in accordance with this Privacy Policy. However, this application will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, this application will not disclose or provide this information to third parties without your prior permission. This app will update this privacy policy from time to time. By agreeing to this Application Services Use Agreement, you are deemed to have agreed to the entire content of this Privacy Policy. This Privacy Policy is an integral part of this Application Service Agreement.
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+Scope of application (a) the personal registration information you provide in accordance with the requirements of this application when you register for this application account;
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+(b) The information on your browser and computer that the application automatically receives and records when you use the App Network Service or access the App Platform webpage, including but not limited to your IP address, browser type, Data such as language used, date and time of access, hardware and software feature information, and web page records you need;
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at 经典MissionManagerSD unless otherwise defined in this Privacy Policy.
+(c) User personal data obtained by the application from a business partner through legal means.
 
-Information Collection and Use
+You understand and agree that the following information does not apply to this Privacy Policy:
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
+(a) the keyword information you entered when using the search service provided by the app;
 
-The app does use third party services that may collect information used to identify you.
+(b) Relevant information collected by you in this application, including but not limited to participation activities, transaction information and evaluation details;
 
-Link to privacy policy of third party service providers used by the app
+(c) Violation of the law or violation of this Code of Conduct and the actions that this application has taken against you.
 
-Google Play Services
-Log Data
+Information use (a) This application does not provide, sell, rent, share or trade your personal information to any unrelated third party, unless you have obtained your permission in advance, or the third party and the application (including the application affiliate) are separate or common. To provide you with services, and after the service is over, it will be banned from accessing all of this material that it has previously been able to access.
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+(b) This application also does not permit any third party to collect, edit, sell or distribute your personal information by any means. Any user of this application platform who engages in the above activities, once found, the application has the right to immediately terminate the service agreement with the user.
 
-Cookies
+(c) For the purpose of serving the User, the App may use the information you use to provide you with information of interest to you, including but not limited to, sending you product and service information, or sharing information with the App Partner so that they may Send you information about its products and services (the latter requires your prior consent).
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Information disclosure In the following circumstances, this application will disclose your personal information in whole or in part according to your personal wishes or the law:
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+(a) disclose to third parties with your prior consent;
 
-Service Providers
+(b) To provide the products and services you request, you must share your personal information with third parties;
 
-We may employ third-party companies and individuals due to the following reasons:
+(c) Disclosure to third parties or administrative or judicial authorities in accordance with the relevant provisions of the law, or at the request of the administrative or judicial authorities;
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+(d) If you have violated relevant Chinese laws, regulations or this application service agreement or related rules, you need to disclose it to third parties;
 
-Security
+(e) If you are a qualified IP Complainant and have filed a complaint, it should be disclosed to the Respondent at the request of the Complainant so that both parties can handle possible rights disputes;
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+(f) In a transaction created on this application platform, if any party to the transaction performs or partially fulfills the transaction obligation and requests for information disclosure, the application has the right to decide to provide the user with the contact information of the counterparty, etc. Information to facilitate the completion of a transaction or the resolution of a dispute.
 
-Links to Other Sites
+(g) Other disclosures that this application considers appropriate in accordance with laws, regulations or website policies.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Information storage and exchange The information and materials collected by you in this application will be stored on the application and/or the servers of its affiliates, which may be transmitted to your country, region or the location where the application collects information and materials. It is accessed, stored and displayed outside the country.
 
-Children’s Privacy
+Use of cookies (a) In the event that you do not refuse to accept cookies, the App will set or access cookies on your computer so that you can log in or use cookies-based services or features that rely on cookies. This app uses cookies to provide you with more thoughtful and personalized services, including promotional services.
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+(b) You have the right to accept or reject the acceptance of cookies. You can refuse to accept cookies by modifying your browser settings. However, if you choose to refuse to accept cookies, you may not be able to log in or use this application web service or feature that relies on cookies.
 
-Changes to This Privacy Policy
+(c) This policy will apply to information obtained through the cookies provided in this application.
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+Information security (a) This application account has security protection. Please keep your username and password information safe. This application will ensure that your information is not lost, not abused or altered, by security measures such as encrypting user passwords. Despite the aforementioned security measures, please also note that there are no “perfect security measures” on the information network.
 
-Contact Us
+(b) When using this application web service for online transactions, you will inevitably have to deal with the counterparty or potential transaction pair
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+Changes to this Privacy Policy (a) If we decide to change our Privacy Policy, we will post those changes in this Policy, on our website, and in such locations as we deem appropriate, so that you can understand how we collect and use your personal information and who can access it. And under what circumstances we will disclose this information.
+
+(b) The company reserves the right to modify this policy at any time, so please check it frequently. In the event of a material change to this policy, the Company will notify you by notice on the website.
+
+The party discloses its personal information, such as contact information or postal address. Please protect your personal information and provide it to others only when necessary. If you find that your personal information is leaked, especially if the application username and password are leaked, please contact this application customer service immediately so that the application can take corresponding measures.
