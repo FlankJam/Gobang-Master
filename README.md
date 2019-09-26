@@ -1,8 +1,8 @@
-# Gobang-Master
+# Snake Simulator
 
-Technical support for "Gobang-Master"
+Technical support for "Snake Simulator"
 
-We will provide technical support for this app（Gobang-Mater）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: frankgobang@gmail.com
+We will provide technical support for this app（Snake Simulator）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: SnakeSimulator@gmail.com
 
 Privacy Policy
 
