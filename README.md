@@ -1,8 +1,8 @@
-# Snake Simulator
+# MyApp(Snake Simulator\NxN Puzzle)
 
-Technical support for "Snake Simulator"
+Technical support for my app
 
-We will provide technical support for this app（Snake Simulator）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: SnakeSimulator@gmail.com
+We will provide technical support for our apps, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: frankjamapp@gmail.com
 
 Privacy Policy
 
